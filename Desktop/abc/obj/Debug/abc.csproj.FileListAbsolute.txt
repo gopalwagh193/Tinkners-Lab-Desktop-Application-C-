@@ -1,0 +1,40 @@
+E:\Visual projects Demo\abc\abc\bin\Debug\abc.exe.config
+E:\Visual projects Demo\abc\abc\bin\Debug\abc.exe
+E:\Visual projects Demo\abc\abc\bin\Debug\abc.pdb
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.DeviceEntry.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.DMenu.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.Form1.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.Properties.Resources.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.exe
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.pdb
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.ExportDevice.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.LabUtilization.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.ViewLabUtilization.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.ViewExportDevice.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.ViewDeviceEntry.resources
+E:\Visual projects Demo\abc\abc\obj\Debug\abc.NMenu.resources
+G:\Tinkerer's\Desktop\abc\bin\Debug\abc.exe.config
+G:\Tinkerer's\Desktop\abc\obj\Debug\abc.exe
+G:\Tinkerer's\Desktop\abc\obj\Debug\abc.pdb
+D:\Tinkerer's\Desktop\abc\bin\Debug\abc.exe.config
+D:\Tinkerer's\Desktop\abc\obj\Debug\abc.exe
+D:\Tinkerer's\Desktop\abc\obj\Debug\abc.pdb
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\bin\Debug\abc.exe.config
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.exe
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.pdb
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\bin\Debug\abc.exe
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\bin\Debug\abc.pdb
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.DeviceEntry.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.DMenu.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.ExportDevice.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.Form1.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.LabUtilization.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.NMenu.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.Properties.Resources.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.ViewDeviceEntry.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.ViewExportDevice.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.ViewLabUtilization.resources
+F:\2.Projects\3.C#\C# VB Desktop Projects\Desktop\abc\obj\Debug\abc.csproj.GenerateResource.Cache
